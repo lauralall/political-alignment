@@ -1,4 +1,4 @@
-# Values and Political Alignment in Estonia
+# Political Alignment and values in Estonia
 Authors: Kristina Kivistik, Sadu Maria Jaarman, Laura Lall  
 Group: G5  
 Motivation and goal of the project:  

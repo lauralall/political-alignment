@@ -6,4 +6,4 @@ Human values play a foundational role in shaping individual perspectives and col
 Project dataset: project_dataset.csv, from European Social Survery (ESS) round 10, with values for age and gender.  
 Project code: project.ipynb  
 Project report: G5_report.pdf  
-Running the project code with our dataset will replicate the analysis results that we gathered.
+Downloading the project code along with the dataset and running it with Jupyter Notebook will replicate the same analysis results that we gathered.
